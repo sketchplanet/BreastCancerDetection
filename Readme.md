@@ -1,4 +1,4 @@
-#Breast Cancer Detection
+# Breast Cancer Detection
 ## Automated detection and classification system for breast cancer metastases in whole-slide images of histological lymph node section
 
 ### Prerequisites
